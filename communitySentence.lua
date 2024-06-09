@@ -1,4 +1,5 @@
 -- RAGE Community Sentence
+QBCore = exports['qb-core']:GetCoreObject()
 local isCriminal = false
 local punishment = 0
 local markers = {}
