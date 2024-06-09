@@ -11,6 +11,3 @@ Config.cleanupPoints = {
     vector3(175.2, -989.41, 30.09),
     vector3(142.18, -994.42, 29.36),
 }
-Config.BoxZone = {
-    vector3(189.45, -942.18, 50.74)
-}
