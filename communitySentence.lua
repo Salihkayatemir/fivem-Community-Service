@@ -5,7 +5,7 @@ local punishment = 0
 local markers = {}
 
 CreateThread(function()
-    local publicpunishment = BoxZone:Create(Config.BoxZone, 150, 100, { -- Set the length and width diameter that the character cannot exit
+    local publicpunishment = BoxZone:Create(vector3(189.45, -942.18, 50.74), 150, 100, { -- Set the length and width diameter that the character cannot exit
         name="qb-publicpunishment",
         heading=340,
         debugPoly=false
